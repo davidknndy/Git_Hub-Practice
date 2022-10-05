@@ -10,4 +10,4 @@ Created file inside the folder
 
 Pushed everything to GitHub
 
-_Everything worked successfully_
+_Everything worked successfully_.
