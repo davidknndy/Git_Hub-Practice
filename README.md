@@ -1,3 +1,3 @@
 # Git_Hub-Practice
 
-Cloned to my local machien
+Cloned to my local machine.
