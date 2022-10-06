@@ -12,4 +12,4 @@ Pushed everything to GitHub
 
 _Everything worked successfully_.
 
-DEV  ->  QAS  -> PRD
+DEV  ->  QAS  -> PRD - Through Branching
