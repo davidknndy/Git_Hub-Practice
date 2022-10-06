@@ -13,3 +13,5 @@ Pushed everything to GitHub
 _Everything worked successfully_.
 
 DEV  ->  QAS  -> PRD - Through Branching
+
+New branch process: DEV - QAS - MAIN
