@@ -1,4 +1,4 @@
-# Git_Hub-Practice
+# Git_Hub-Practicing
 
 Cloned to my local machine.
 
