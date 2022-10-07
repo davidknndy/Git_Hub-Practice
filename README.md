@@ -10,8 +10,8 @@ Created file inside the folder
 
 Pushed everything to GitHub
 
-_Everything worked successfully_.
+_Everything worked successfully_
 
-DEV  -> MAIN - Through Branching.
+DEV  -> MAIN - Through Branching
 
-New branch process: DEV - MAIN.
+New branch process: DEV - MAIN
