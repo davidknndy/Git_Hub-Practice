@@ -12,6 +12,6 @@ Pushed everything to GitHub
 
 _Everything worked successfully_.
 
-DEV  -> MAIN - Through Branching
+DEV  -> MAIN - Through Branching.
 
 New branch process: DEV - MAIN.
