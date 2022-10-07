@@ -10,12 +10,16 @@ Created file inside the folder
 
 Pushed everything to GitHub
 
-_Everything worked successfully_.
+_Everything worked successfully_
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 DEV  -> MAIN - Through Branching
 =======
 DEV  -> MAIN - Through Branching.
 >>>>>>> dev
+=======
+DEV  -> MAIN - Through Branching
+>>>>>>> dev
 
-New branch process: DEV - MAIN.
+New branch process: DEV - MAIN
