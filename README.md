@@ -14,6 +14,7 @@ _Everything worked successfully_
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 DEV  -> MAIN - Through Branching
 =======
 DEV  -> MAIN - Through Branching.
@@ -21,5 +22,8 @@ DEV  -> MAIN - Through Branching.
 =======
 DEV  -> MAIN - Through Branching
 >>>>>>> dev
+=======
+DEV  -> MAIN - Through Branching.
+>>>>>>> 43ad37fcb97637320998e0e96c9cc7f6c04e91ff
 
 New branch process: DEV - MAIN
