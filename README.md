@@ -14,4 +14,4 @@ _Everything worked successfully_.
 
 DEV  -> MAIN - Through Branching
 
-New branch process: DEV - MAIN
+New branch process: DEV - MAIN.
